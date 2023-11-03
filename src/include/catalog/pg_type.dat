@@ -698,5 +698,5 @@
   descr => 'color data type',
   typname => 'color', typlen => '4', typbyval => 't', typcategory => 'N',
   typinput => 'color_in', typoutput => 'color_out', typreceive => 'color_recv',
-  typsend => 'color_send', typalign => 'i', typstorage => 'x' },
+  typsend => 'color_send', typalign => 'i', typstorage => 'p' },
 ]
